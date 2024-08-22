@@ -1,4 +1,3 @@
-**InsightPDF: Conversational Document AI**:
 
 ---
 
